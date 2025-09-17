@@ -17,6 +17,7 @@ En la etapa 3 buscamos direccionar el analisis a partir del planteamiento de pre
 - El tipo de reserva está relacionado con si se cancela o no la reserva
 - Influye el tipo de depósito en la reserva?
 - Influye el costo en las cancelaciones? -> t test, regresión log
+- Las cancelaciones estan concentradas en algunos meses?
 - ¿Cómo influye el tiempo de antelación a la cancelación de la reserva? -> t test, regresión log
 - Las cancelaciones previas están correlacionadas con que se cancele la reserva (previous cancelations and previous not canceled)
 
